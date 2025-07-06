@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "artistname": "littleredborb",
+    "tumblr": "",
+    "blusky": "littleredborb",
+    "twitter": "littleredborb",
+    "instagram": "littleredborb",
+    "facebook": "",
+    "vgen": "littleredborb",
+    "cancommission": "TRUE",
+    "merchtags": ""
+  },
+  {
+    "id": 2,
+    "artistname": "ynartistic",
+    "tumblr": "ynartistic",
+    "blusky": "ynartistic.bsky.social",
+    "twitter": "ynartistic",
+    "instagram": "",
+    "facebook": "",
+    "vgen": "ynartistic",
+    "cancommission": "TRUE",
+    "merchtags": ""
+  }
+]
