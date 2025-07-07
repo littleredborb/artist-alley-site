@@ -9,7 +9,8 @@
     "facebook": "",
     "vgen": "littleredborb",
     "cancommission": "TRUE",
-    "merchtags": ""
+    "merchtags": "",
+    "numOfPages": 2
   },
   {
     "id": 2,
@@ -21,6 +22,7 @@
     "facebook": "",
     "vgen": "ynartistic",
     "cancommission": "TRUE",
-    "merchtags": ""
+    "merchtags": "",
+    "numOfPages": 3
   }
 ]

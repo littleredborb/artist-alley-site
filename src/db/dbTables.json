@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "tablenumber": "SE3",
+    "tablename": "Onion Knights",
+    "artistIDs": "1",
+    "location": "(1,3)"
+  },
+  {
+    "id": 2,
+    "tablenumber": "SE2",
+    "tablename": "Miqora",
+    "artistIDs": "2",
+    "location": "(1,2)"
+  }
+]
